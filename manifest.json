@@ -1,0 +1,25 @@
+{
+  "name": "FocusDesk",
+  "short_name": "FocusDesk",
+  "description": "Distraction-free SSC CGL study app",
+  "start_url": "/CGLhub/",
+  "scope": "/CGLhub/",
+  "display": "standalone",
+  "background_color": "#1c1c1e",
+  "theme_color": "#e6a817",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/CGLhub/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/CGLhub/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
